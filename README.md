@@ -1,8 +1,8 @@
 
-<h1 align="center">˚ʚ♡ɞ˚ Sneha Chakraborty ˚ʚ♡ɞ˚</h1>
+<h1 align="center"> Sneha Chakraborty </h1>
 
 <p align="center">
-Frontend Developer • UI/UX Enthusiast • Creative Technologist
+Full Stack Developer • UI/UX Enthusiast • Creative Technologist
 </p>
 
 <p align="center">
@@ -21,13 +21,14 @@ role: CSBS Undergraduate
 location: Kolkata, India
 
 interests:
-  - Frontend Development
+  - Web Development
   - UI/UX Design
   - Creative Coding
   - AI + Art
   - Storytelling Through Technology
 
 currently_learning:
+  - Backend Systems
   - React Ecosystem
   - UI Engineering
   - Interaction Design
@@ -46,48 +47,8 @@ currently_learning:
 
 ---
 
-# ✨ Featured Projects
 
-## 🎨 Artsy — AI Art Recommendation System
 
-An AI-powered recommendation platform that suggests artworks using mood analysis and visual similarity.
-
-### 💡 Features
-
-* Mood-based recommendations
-* Deep learning image similarity
-* Interactive gallery interface
-* AI-powered artwork discovery
-
-### 🌷 Tech Used
-
-`React` `Flask` `Python` `VGG16`
-
----
-
-## 📜 Navigating Digital Rights
-
-A React-based platform focused on copyright awareness and content licensing.
-
-### 🎀 My Role
-
-Frontend Development & UI Design
-
-### 🌷 Tech Used
-
-`React` `JavaScript` `CSS`
-
----
-
-## 🌸 AI Kolam Design Generator
-
-A creative AI project that studies traditional kolam patterns and generates new visual designs using generative AI workflows.
-
-### 🌷 Tech Used
-
-`Python` `VQGAN+CLIP` `Google Colab`
-
----
 
 # 📊 GitHub Stats
 
@@ -105,11 +66,11 @@ A creative AI project that studies traditional kolam patterns and generates new 
 
 <p align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/snehuha">
 <img src="https://img.shields.io/badge/GitHub-f8bbd0?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="www.linkedin.com/in/sneha-chakraborty310705">
 <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
@@ -128,5 +89,5 @@ A creative AI project that studies traditional kolam patterns and generates new 
 ---
 
 <h3 align="center">
-˚ʚ♡ɞ˚ Build things that make people feel something ˚ʚ♡ɞ˚
+ Build things that make people feel something 
 </h3>
