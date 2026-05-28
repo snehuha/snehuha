@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">˚ʚ♡ɞ˚ Sneha Chakraborty ˚ʚ♡ɞ˚</h1>
 
 <p align="center">
@@ -130,4 +130,3 @@ A creative AI project that studies traditional kolam patterns and generates new 
 <h3 align="center">
 ˚ʚ♡ɞ˚ Build things that make people feel something ˚ʚ♡ɞ˚
 </h3>
-```
