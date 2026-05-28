@@ -74,10 +74,6 @@ currently_learning:
 <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-ffd6e7?style=for-the-badge&logo=About.me&logoColor=black"/>
-</a>
-
 </p>
 
 ---
