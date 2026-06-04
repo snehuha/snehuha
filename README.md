@@ -11,7 +11,7 @@ Full Stack Developer • UI/UX Enthusiast • Creative Technologist
 
 ---
 
-<img align="right" width="250" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 
 ## 🌸 About Me
 
